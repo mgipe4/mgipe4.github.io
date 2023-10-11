@@ -1,4 +1,9 @@
 body {
-    background-color: olive;
+    background-color:olive;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color:cadetblue;
+    text-align: center;
 }
