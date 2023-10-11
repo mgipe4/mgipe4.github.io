@@ -14,3 +14,7 @@ h1 {
     background-color:darkseagreen;
     display: flex;
 }
+.assign img {
+    width: 200px;
+    padding: 10px;
+}
